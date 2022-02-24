@@ -16,4 +16,7 @@ Users can sign in using their email and password as soon as their account is cre
 
 Users will be able to find their ongoing orders, and the status for each individual product included after purchase, considering that an order is related to only one user.
 
-
+Participants:
+Luis Gómez
+Andrés Castillo
+Brian Dávalos
